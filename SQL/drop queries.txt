@@ -1,0 +1,14 @@
+drop table `academic-pier-405912.recipe_staging_dataset.dataset_ayam`;
+drop table `academic-pier-405912.recipe_staging_dataset.dataset_ikan`;
+drop table `academic-pier-405912.recipe_staging_dataset.dataset_tahu`;
+drop table `academic-pier-405912.recipe_staging_dataset.dataset_telur`;
+drop table `academic-pier-405912.recipe_staging_dataset.dataset_udang`;
+drop table `academic-pier-405912.recipe_staging_dataset.dataset_tempe`;
+
+drop table `academic-pier-405912.recipe_dataset.D_dataset_ayam`;
+drop table `academic-pier-405912.recipe_dataset.D_dataset_ikan`;
+drop table `academic-pier-405912.recipe_dataset.D_dataset_tahu`;
+drop table `academic-pier-405912.recipe_dataset.D_dataset_telur`;
+drop table `academic-pier-405912.recipe_dataset.D_dataset_tempe`;
+drop table `academic-pier-405912.recipe_dataset.D_dataset_udang`;
+drop table `academic-pier-405912.recipe_dataset.F_dataset_recipe`;
